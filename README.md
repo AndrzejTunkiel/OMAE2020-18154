@@ -4,4 +4,6 @@ Repository hosting code related to paper OMAE2020-4810.
 
 This code is licensed under CC BY-NC-SA 4.0.
 
+Data in the F9Adepth.csv file belongs to Equinor and is part of the Volve dataset, licensed under CC BY-NC-SA 4.0 license.
+
 Andrzej Tunkiel
